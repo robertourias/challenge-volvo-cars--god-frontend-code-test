@@ -861,6 +861,11 @@
     "@typescript-eslint/types" "5.33.1"
     eslint-visitor-keys "^3.3.0"
 
+"@volvo-cars/css@^0.39.0":
+  version "0.39.0"
+  resolved "https://registry.npmjs.org/@volvo-cars/css/-/css-0.39.0.tgz"
+  integrity sha512-wwyLwvvaBBuwFl8HEWQN2kP16D/3GDqSLQ8Tpnrgv+YSkvRT1sG7B1hYimqI4UIJypnrKoENtchq5nubtoXNUA==
+
 "@volvo-cars/react-aria@^0.3.2":
   version "0.3.2"
   resolved "https://registry.npmjs.org/@volvo-cars/react-aria/-/react-aria-0.3.2.tgz"
@@ -1024,7 +1029,7 @@ axe-core@^4.4.3:
   resolved "https://registry.npmjs.org/axe-core/-/axe-core-4.4.3.tgz"
   integrity sha512-32+ub6kkdhhWick/UjvEwRchgoetXqTK14INLqbGm5U2TzBkBNF3nQtLYm8ovxSkQWArjEQvftCKryjZaATu3w==
 
-axios@^1.7.2:
+axios@^1.5.0:
   version "1.7.2"
   resolved "https://registry.npmjs.org/axios/-/axios-1.7.2.tgz"
   integrity sha512-2A8QhOMrbomlDuiLeK9XibIBzuHeRcqqNOHp0Cyp5EoJ1IFDh+XZH3A6BkXtv0K4gFGCI0Y4BM7B1wOEi0Rmgw==
@@ -3783,7 +3788,7 @@ v8-to-istanbul@^9.0.1:
     "@types/istanbul-lib-coverage" "^2.0.1"
     convert-source-map "^1.6.0"
 
-vcc-ui@^4.8.0:
+vcc-ui@^4.6.2:
   version "4.8.0"
   resolved "https://registry.npmjs.org/vcc-ui/-/vcc-ui-4.8.0.tgz"
   integrity sha512-1GR7YcMQMR4gMzihNb3fkdEaI3zu1sQK2YNwd5c1I8859VhdNEYrFhRj2kamveDnUzAk+fC72+v9x6S9ywVZ8A==
